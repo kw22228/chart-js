@@ -1,3 +1,3 @@
 # chart-webGL
 
-WebGL을 이용한 차트
+js를 이용한 차트

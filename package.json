@@ -3,9 +3,6 @@
     "version": "1.0.0",
     "description": "js를 이용한 차트",
     "main": "index.js",
-    "directories": {
-        "example": "example"
-    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -21,16 +18,8 @@
             "last 1 safari version"
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kw22228/chart-webGL.git"
-    },
     "author": "",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/kw22228/chart-webGL/issues"
-    },
-    "homepage": "https://github.com/kw22228/chart-webGL#readme",
     "dependencies": {
         "axios": "^0.26.1"
     }

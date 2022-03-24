@@ -6,7 +6,7 @@ const defaultOptions = {
     frame: 30,
 };
 
-export default class Chart {
+class Chart {
     #template = template;
     #elem;
     #percent;
@@ -61,3 +61,5 @@ export default class Chart {
         }, 1000 / this.#frame);
     };
 }
+
+export default Chart;
